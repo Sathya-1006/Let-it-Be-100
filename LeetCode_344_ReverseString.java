@@ -1,5 +1,5 @@
-// LeetCode 344 - Reverse String
-// Problem: Reverse a string in-place
+// LeetCode 344 - Reverse String.
+// Problem: Reverse a string in-place.
 
 class Solution {
     public void reverseString(char[] s) {
